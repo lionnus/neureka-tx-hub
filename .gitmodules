@@ -1,0 +1,8 @@
+[submodule "neureka-tx"]
+	path = neureka-tx
+	url = https://github.com/lionnus/neureka-tx
+	branch = main
+[submodule "i-vit"]
+	path = i-vit
+	url = https://github.com/lionnus/i-vit
+	branch = main
