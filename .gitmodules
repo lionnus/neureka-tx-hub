@@ -6,3 +6,7 @@
 	path = i-vit
 	url = https://github.com/lionnus/i-vit
 	branch = main
+[submodule "neureka-tx-backend"]
+	path = neureka-tx-backend
+	url = git@github.com:lionnus/neureka-tx-backend.git
+	branch = main
