@@ -15,7 +15,7 @@ This hub contains the following submodules. See each repository’s README for d
 
 - [**NEureka-TX**](https://github.com/lionnus/neureka-tx)  
   RTL design and test bench.
-  - **main branch**: Newest RTL changes and latest developments.
+  - **neureka-tx branch**: Newest RTL changes and latest developments. Note: Will be merged to main soon.
   - **backend-implementation branch**: Proper backend implementation support with e.g. working Makefile for post-layout netlists, fixed clock gating cells, etc. However, not the fastest and newest version.
 
 - [**i-vit**](https://github.com/lionnus/i-vit)  
